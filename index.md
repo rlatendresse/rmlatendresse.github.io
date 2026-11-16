@@ -1,8 +1,3 @@
-<style>
-  header hl {
-    display: none !important;
-  }
-</style>
 ## Ryan LaTendresse
 <p align="center">
 <img width="30%" height="30%" alt="image0 (1)" src="https://github.com/user-attachments/assets/baf5d6bf-b156-4f4a-bc18-435831fc8e51" />
