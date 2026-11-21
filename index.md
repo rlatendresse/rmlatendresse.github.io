@@ -10,3 +10,5 @@
 
 <p align="center"> Team Lead &nbsp;|&nbsp; Business Administration &nbsp;|&nbsp; Two Children </p>
 
+<hr>…</hr>
+
