@@ -47,3 +47,6 @@ I am a parent to two children whose names and genders will not be mentioned for 
 <p align="center">
 <em>“If you can't outplay them, outwork them.” - Ben Hogan</em>
 </p>
+<p align="center">
+<sub>“We will figure it out, we always do." - Ryan LaTendresse</sub>
+</p>
