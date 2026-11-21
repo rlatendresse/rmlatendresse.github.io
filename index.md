@@ -25,15 +25,21 @@ I am a parent to two children whose names and genders will not be mentioned for 
     <p>
       <strong>Sports</strong>
       <br>
-        "I enjoy watching and playing many sports. Baseball, Basketball, Football, Hockey, Bowling, and Golf. I hope to pass down my passion for sports to my children." 
+        I enjoy watching and playing many sports. Baseball, Basketball, Football, Hockey, Bowling, and Golf. I hope to pass down my passion for sports to my children.
     </p>
   </li>
   
 <li>
-  
   <p>
     <strong>Home Life</strong>
     <br>
-    "I help my children with their schoolwork, spend time with my pets, and spend time with my wife when I have the chance. We play games or watch movies together. Just bought a house, so there is time being spent remodeling or making repairs to the house too."
+    I spend any chance I get with my children, spend time with my pets, and spend time with my wife when I have the chance. We play games or watch movies together. Just bought a house, so there is time being spent remodeling or making repairs to the house too.
   </p>
+  <li>
+    <p>
+      <strong>Accomplishments</strong>
+      <br>
+      I was All Conference in Basketball my junior year in high school. While I may not have been successful in my first stint of college, I did attend Michigan Technological University. I have moved up in every job I have ever had. This is something I take pride in myself for doing. 
+    </p>
+  </li>
 </ul>
