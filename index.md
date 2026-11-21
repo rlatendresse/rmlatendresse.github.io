@@ -22,7 +22,7 @@ I am a parent to two children whose names and genders will not be mentioned for 
 
 <ul>
   <li>
-    ::marker
+  
     <p>
       <strong>Sports</strong>
       <br>
@@ -31,7 +31,7 @@ I am a parent to two children whose names and genders will not be mentioned for 
   </li>
   
 <li>
-  ::marker
+  
   <p>
     <strong>Home Life</strong>
     <br>
