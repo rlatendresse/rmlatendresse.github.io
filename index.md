@@ -43,3 +43,7 @@ I am a parent to two children whose names and genders will not be mentioned for 
     </p>
   </li>
 </ul>
+
+<p align="center">
+<em>“If you can't outplay them, outwork them.”</em>
+</p>
