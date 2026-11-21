@@ -5,8 +5,8 @@
 <h1 align="center">Boozhoo, Ryan indizhinikaaz </h1>
 <p align="center">
   
-  <strong>Team Lead * College Student * Parent</strong>
+  <strong>Certainteed Employee * College Student * Parent</strong>
 </p>
 
-<p> align="center">
-</p>
+<p align="center"> Team Lead &nbsp;|&nbsp; Business Administration &nbsp;|&nbsp; Two Children </p>
+
