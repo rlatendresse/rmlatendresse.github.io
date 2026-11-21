@@ -22,7 +22,6 @@ I am a parent to two children whose names and genders will not be mentioned for 
 
 <ul>
   <li>
-  ::marker
     <p>
       <strong>Sports</strong>
       <br>
